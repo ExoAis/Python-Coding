@@ -1,0 +1,32 @@
+li=[[1,2,3],[4,5,6]]
+for i in li:
+    for j in i:
+        print(j)
+print()
+print()
+print()
+print()
+mylist=[10,2,5,2,9]
+mylist.sort()
+print(mylist)
+mylist.reverse()
+print(mylist)
+s=mylist.copy()
+print(s)
+print()
+print()
+print()
+print()
+print()
+l1=l2=[1,2,3,5]
+print(l1,l2)
+l2[2]=6
+print(l1,l2)
+print()
+print()
+print()
+print()
+print()
+l1=[1,2]
+l2=[3,4]
+print(l1+l2)
